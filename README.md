@@ -1,4 +1,4 @@
-# rustc-hash
+# dustc-hash
 
 [![crates.io](https://img.shields.io/crates/v/rustc-hash.svg)](https://crates.io/crates/rustc-hash)
 [![Documentation](https://docs.rs/rustc-hash/badge.svg)](https://docs.rs/rustc-hash)
